@@ -1,8 +1,3 @@
-<!-- MasterHead -->
-<a href="https://www.behance.net/gallery/182606383/LO-FI-GIF/modules/1031598517">
-  <img href=![GIF LO-FI]"()" alt="Your GIF" style="width:auto; height:auto"/>
-</a>
-
 <!-- Greeting -->
 <h1 align="center">Olá! 🙏 Sou o Henry Souza</h1>
 
@@ -64,16 +59,7 @@
   <img src="https://skillicons.dev/icons?i=python,typescript,react,linux" />
 </div>
 
-<!-- Top Repositories -->
-<h3 align="center">⭐️ Repositórios Destaque</h3>
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://github.com/Henry-Souza/repo-name">
-    <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Henry-Souza&repo=repo-name&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
-  </a>
-  <a href="https://github.com/Henry-Souza/repo-name">
-    <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Henry-Souza&repo=repo-name&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
-  </a>
-</div>
+
 
 <h3>💻 Stack Tecnológico:</h3>
 <div align="center">

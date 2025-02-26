@@ -1,39 +1,85 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+<!-- MasterHead -->
+<a href="https://www.behance.net/gallery/182606383/LO-FI-GIF/modules/1031598517">
+  <img href=![GIF LO-FI]"()" alt="Your GIF" style="width:auto; height:auto"/>
+</a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Henry+Souza;I'm+19+years+old;I+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<!-- Greeting -->
+<h1 align="center">Olá! 🙏 Sou o Henry Souza</h1>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=henrycsouza&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=1E90FF&bg_color=0d1117" alt="henrycsouza github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrycsouza&layout=compact&hide_border=true&title_color=1E90FF&text_color=1E90FF&bg_color=0d1117" />
-</div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=henrycsouza&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<div align="center"> 
-<a href="https://www.instagram.com/henry.zipp/?next=https%3A%2F%2Fwww.instagram.com%2Fhenry.zipp%2Fsaved%2Fall-posts%2F%3F__coig_login%3D1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://br.linkedin.com/in/henry-souza-2770762b6?trk=people-guest_people_search-card" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
-
-  ### Main skills:
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)&nbsp;
-
-### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
-![C++](https://img.shields.io/badge/-C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=blue&labelColor=0D1117)&nbsp;
-
+<h4 align="left">🌟 Trabalho com Front-end e estou expandindo meus conhecimentos para o back-end, focando também em projetos de monitoramento e análise de dados. Estou em busca de novas oportunidades de aprendizado e desenvolvimento na área de TI.</h4>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{henrycsouza}/count.svg" /></p> 
-<br>
+  <a href="https://github.com/Henry-Souza">
+    <img width="162px" 
+         src="https://komarev.com/ghpvc/?username=Henry-Souza&label=Profile%20views&color=318CE7&style=for-the-badge" 
+         alt="Profile views" />
+  </a>
+  <a href="https://api.github-star-counter.workers.dev/user/Henry-Souza">
+    <img width="115px" 
+         alt="Total stars" 
+         title="Total stars on GitHub" 
+         src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=318CE7&labelColor=505050&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Henry-Souza" />
+  </a>
+  <a href="https://github.com/Henry-Souza?tab=followers">
+    <img width="147px" 
+         alt="Followers" 
+         title="Follow me on GitHub" 
+         src="https://custom-icon-badges.herokuapp.com/github/followers/Henry-Souza?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" />
+  </a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
+<!-- 👀 VIEWS -->
+<img align="right" alt="coding-gif" width="400" src="https://github.com/Henry-Souza/yourgif.gif">
+
+<!-- About Me -->
+<h3 align="left">💫 Sobre Mim</h3>
+
+<h4>
+  🌱 Atualmente, estou focando em aprimorar minhas habilidades de programação e aprender mais sobre back-end.</br>
+  🔭 Tenho experiência em Front-end com Vue.js e estou expandindo meu conhecimento em outras áreas do desenvolvimento.</br>
+  💬 Pergunte-me sobre JavaScript, Vue.js, Node.js, PostgreSQL, e práticas ágeis.</br>
+  ⚡ Estou muito interessado em IA, aprendizado de máquina e automação.</br>
+  ✨ Sempre busco a excelência no que faço e gosto de ajudar os outros.
+</h4>
+
+<!-- Links to contact -->
+<div align="left">
+  <a href="mailto:henry.souza@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/henry-souza" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.youtube.com/c/HenrySouza" target="_blank"><img src="https://img.shields.io/badge/YouTube-BF616A?style=for-the-badge&logo=youtube&logoColor=ECEFF4" alt="YouTube" /></a>
+  <a href="https://henry-souza-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
+</div>
+
+<!-- Github Stats -->
+<h3 align="center">⚡ Status no GitHub</h3>
+<div align="center">
+  <img width="380" src="https://github-readme-stats.vercel.app/api?username=Henry-Souza&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10"/>
+  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-Souza&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+</div>
+
+<!-- Languages & Tools -->
+<h3 align="center">📚 Linguagens & Ferramentas que Eu Usei</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vue,html,css,javascript,nodejs,git,github,postgresql" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,react,linux" />
+</div>
+
+<!-- Top Repositories -->
+<h3 align="center">⭐️ Repositórios Destaque</h3>
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <a href="https://github.com/Henry-Souza/repo-name">
+    <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Henry-Souza&repo=repo-name&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+  </a>
+  <a href="https://github.com/Henry-Souza/repo-name">
+    <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=Henry-Souza&repo=repo-name&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+  </a>
+</div>
+
+<h3>💻 Stack Tecnológico:</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" />
+</div>

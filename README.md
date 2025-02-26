@@ -1,3 +1,6 @@
+![Descrição do GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fblue-lock-isagi-gif-blue-lock-isagi-isagi-yoichi-discover-share-gifs--890305420058334435%2F&psig=AOvVaw1LbVMJoHfuqsAyw7S7tAXD&ust=1740667443206000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPidxtfJ4YsDFQAAAAAdAAAAABA5)
+
+
 <!-- Greeting -->
 <h1 align="center">Olá! 🙏 Sou o Henry Souza</h1>
 

@@ -1,5 +1,5 @@
 
-<img src="https://i.pinimg.com/originals/96/cb/5a/96cb5a29b529cd85483b9dc1d322ca93.gif" alt="Gif de exemplo" width="1000" />
+<img src="https://i.pinimg.com/originals/96/cb/5a/96cb5a29b529cd85483b9dc1d322ca93.gif" alt="Gif de exemplo" width="950" />
 
 
 <!-- Greeting -->

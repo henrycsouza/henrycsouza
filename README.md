@@ -1,4 +1,5 @@
-![Descrição do GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fblue-lock-isagi-gif-blue-lock-isagi-isagi-yoichi-discover-share-gifs--890305420058334435%2F&psig=AOvVaw1LbVMJoHfuqsAyw7S7tAXD&ust=1740667443206000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPidxtfJ4YsDFQAAAAAdAAAAABA5)
+
+<img src="https://i.pinimg.com/originals/96/cb/5a/96cb5a29b529cd85483b9dc1d322ca93.gif" alt="Gif de exemplo" width="1000" />
 
 
 <!-- Greeting -->

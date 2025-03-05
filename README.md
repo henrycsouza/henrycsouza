@@ -5,7 +5,7 @@
 <!-- Greeting -->
 <h1 align="center">Olá! 🙏 Sou o Henry Souza</h1>
 
-<h4 align="left">🌟 Trabalho com Front-end e estou expandindo meus conhecimentos para o back-end, focando também em projetos de monitoramento e análise de dados. Estou em busca de novas oportunidades de aprendizado e desenvolvimento na área de TI.</h4>
+<h4 align="left">🌟 I'm a Front-End Developer expanding into Back-End, with a strong focus on monitoring and data analysis projects. Passionate about solving real-world problems through technology, I'm always seeking new challenges and opportunities to grow in the tech industry.</h4>
 
 <div align="center">
   <a href="https://github.com/Henry-Souza">
@@ -34,11 +34,11 @@
 <h3 align="left">💫 Sobre Mim</h3>
 
 <h4>
-  🌱 Atualmente, estou focando em aprimorar minhas habilidades de programação e aprender mais sobre back-end.</br>
-  🔭 Tenho experiência em Front-end com Vue.js e estou expandindo meu conhecimento em outras áreas do desenvolvimento.</br>
-  💬 Pergunte-me sobre JavaScript, Vue.js, Node.js, PostgreSQL, e práticas ágeis.</br>
-  ⚡ Estou muito interessado em IA, aprendizado de máquina e automação.</br>
-  ✨ Sempre busco a excelência no que faço e gosto de ajudar os outros.
+ 🌱 I'm currently focused on improving my programming skills and learning more about back-end development. </br>
+🔭 I have experience in Front-End with Vue.js and am expanding my knowledge into other areas of development. </br>
+💬 Ask me about JavaScript, Vue.js, Node.js, PostgreSQL, and agile practices. </br>
+⚡ I'm highly interested in AI, machine learning, and automation. </br>
+✨ I always strive for excellence in everything I do and enjoy helping others.
 </h4>
 
 <!-- Links to contact -->

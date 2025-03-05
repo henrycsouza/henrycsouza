@@ -8,18 +8,18 @@
 <h4 align="left">🌟 I'm a Front-End Developer expanding into Back-End, with a strong focus on monitoring and data analysis projects. Passionate about solving real-world problems through technology, I'm always seeking new challenges and opportunities to grow in the tech industry.</h4>
 
 <div align="center">
-  <a href="https://github.com/Henry-Souza">
+  <a href="https://github.com/henrycsouza">
     <img width="162px" 
          src="https://komarev.com/ghpvc/?username=Henry-Souza&label=Profile%20views&color=318CE7&style=for-the-badge" 
          alt="Profile views" />
   </a>
-  <a href="https://api.github-star-counter.workers.dev/user/Henry-Souza">
+  <a href="https://api.github-star-counter.workers.dev/user/henrycsouza">
     <img width="115px" 
          alt="Total stars" 
          title="Total stars on GitHub" 
          src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=318CE7&labelColor=505050&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Henry-Souza" />
   </a>
-  <a href="https://github.com/Henry-Souza?tab=followers">
+  <a href="https://github.com/henrycsouza?tab=followers">
     <img width="147px" 
          alt="Followers" 
          title="Follow me on GitHub" 

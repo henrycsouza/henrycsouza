@@ -3,7 +3,7 @@
 
 
 <!-- Greeting -->
-<h1 align="center">Olá! 🙏 Sou o Henry Souza</h1>
+<h1 align="center">Hello! 🙏 I'm Henry Souza</h1>
 
 <h4 align="left">🌟 I'm a Front-End Developer expanding into Back-End, with a strong focus on monitoring and data analysis projects. Passionate about solving real-world problems through technology, I'm always seeking new challenges and opportunities to grow in the tech industry.</h4>
 
@@ -50,14 +50,14 @@
 </div>
 
 <!-- Github Stats -->
-<h3 align="center">⚡ Status no GitHub</h3>
+<h3 align="center">⚡ GitHub Status</h3>
 <div align="center">
   <img width="380" src="https://github-readme-stats.vercel.app/api?username=Henry-Souza&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10"/>
   <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-Souza&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
 <!-- Languages & Tools -->
-<h3 align="center">📚 Linguagens & Ferramentas que Eu Usei</h3>
+<h3 align="center">📚 Languages & Tools I've Used</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vue,html,css,javascript,nodejs,git,github,postgresql" />
   <img src="https://skillicons.dev/icons?i=python,typescript,react,linux" />

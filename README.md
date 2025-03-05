@@ -31,7 +31,7 @@
 <img align="right" alt="coding-gif" width="400" src="https://github.com/Henry-Souza/yourgif.gif">
 
 <!-- About Me -->
-<h3 align="left">💫 Sobre Mim</h3>
+<h3 align="left">💫 About me</h3>
 
 <h4>
  🌱 I'm currently focused on improving my programming skills and learning more about back-end development. </br>
@@ -49,12 +49,6 @@
   <a href="https://henry-souza-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
 </div>
 
-<!-- Github Stats -->
-<h3 align="center">⚡ GitHub Status</h3>
-<div align="center">
-  <img width="380" src="https://github-readme-stats.vercel.app/api?username=Henry-Souza&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10"/>
-  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-Souza&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-</div>
 
 <!-- Languages & Tools -->
 <h3 align="center">📚 Languages & Tools I've Used</h3>

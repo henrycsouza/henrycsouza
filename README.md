@@ -1,69 +1,70 @@
+<img src="https://i.pinimg.com/originals/96/cb/5a/96cb5a29b529cd85483b9dc1d322ca93.gif" alt="Banner" width="950"/>
 
-<img src="https://i.pinimg.com/originals/96/cb/5a/96cb5a29b529cd85483b9dc1d322ca93.gif" alt="Gif de exemplo" width="950" />
+<h1 align="center">Hi 👋 I'm Henry Souza</h1>
 
+<h3 align="center">
+Front-End Developer • Vue.js • JavaScript • TypeScript
+</h3>
 
-<!-- Greeting -->
-<h1 align="center">Hello! 🙏 I'm Henry Souza</h1>
+<p align="center">
+Building responsive web applications, REST API integrations and modern user interfaces.
+</p>
 
-<h4 align="left">🌟 I'm a Front-End Developer expanding into Back-End, with a strong focus on monitoring and data analysis projects. Passionate about solving real-world problems through technology, I'm always seeking new challenges and opportunities to grow in the tech industry.</h4>
+---
 
-<div align="center">
-  <a href="https://github.com/henrycsouza">
-    <img width="162px" 
-         src="https://komarev.com/ghpvc/?username=Henry-Souza&label=Profile%20views&color=318CE7&style=for-the-badge" 
-         alt="Profile views" />
+## 💫 About Me
+
+- 💻 Front-End Developer
+- 🚀 Specialized in Vue.js, JavaScript and TypeScript
+- 🔗 Experience with REST APIs
+- 📱 Responsive Design
+- ⚡ Git, Scrum & Agile
+- 🏢 Currently working at INPE
+- 📚 Always improving my Front-end skills
+
+---
+
+## 🌐 Connect with me
+
+<p align="left">
+  <a href="mailto:henrycsouza2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://api.github-star-counter.workers.dev/user/henrycsouza">
-    <img width="115px" 
-         alt="Total stars" 
-         title="Total stars on GitHub" 
-         src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=318CE7&labelColor=505050&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Henry-Souza" />
+
+  <a href="https://www.linkedin.com/in/henrycsouza/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/henrycsouza?tab=followers">
-    <img width="147px" 
-         alt="Followers" 
-         title="Follow me on GitHub" 
-         src="https://custom-icon-badges.herokuapp.com/github/followers/Henry-Souza?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" />
+
+  <a href="https://portfolio-55c1.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-</div>
+</p>
 
-<!-- 👀 VIEWS -->
-<img align="right" alt="coding-gif" width="400" src="https://github.com/Henry-Souza/yourgif.gif">
+---
 
-<!-- About Me -->
-<h3 align="left">💫 About me</h3>
+## 🚀 Tech Stack
 
-<h4>
- 🌱 I'm currently focused on improving my programming skills and learning more about back-end development. </br>
-🔭 I have experience in Front-End with Vue.js and am expanding my knowledge into other areas of development. </br>
-💬 Ask me about JavaScript, Vue.js, Node.js, PostgreSQL, and agile practices. </br>
-⚡ I'm highly interested in AI, machine learning, and automation. </br>
-✨ I always strive for excellence in everything I do and enjoy helping others.
-</h4>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vue,react,typescript,javascript,html,css,nodejs,git,github,postgresql,vite,pinia,figma,tailwind,linux,vscode" />
+</p>
 
-<!-- Links to contact -->
-<div align="left">
-  <a href="mailto:henrycsouza2@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/henrycsouza/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.youtube.com/@esclife-f2l" target="_blank"><img src="https://img.shields.io/badge/YouTube-BF616A?style=for-the-badge&logo=youtube&logoColor=ECEFF4" alt="YouTube" /></a>
-<!--   <a href="https://henry-souza-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a> -->
-</div>
+---
 
+## ⭐ Featured Projects
 
-<!-- Languages & Tools -->
-<h3 align="center">📚 Languages & Tools I've Used</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vue,html,css,javascript,nodejs,git,github,postgresql" />
-  <img src="https://skillicons.dev/icons?i=python,typescript,react,linux" />
-</div>
+- 🏥 **VidaPlus** — Medical management system built with Vue.js
+- 📊 **Dashboard** — Modern dashboard with charts and responsive layout
+- 🌐 **Portfolio** — Personal portfolio showcasing my projects
+- 🔗 **REST API Projects** — Applications integrated with external APIs
 
+---
 
+## 📈 GitHub Stats
 
-<h3>💻 Stack Tecnológico:</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" />
-</div>
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=henrycsouza&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrycsouza&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
